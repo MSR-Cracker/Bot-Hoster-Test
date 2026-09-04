@@ -1,6 +1,7 @@
 name = "telegram-hosting-bot"
 main = "entry.py"
 compatibility_date = "2026-09-04"
+compatibility_flags = ["python_workers"]
 
 [vars]
 # لا تضع الأسرار هنا.
