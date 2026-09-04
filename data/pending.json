@@ -10,5 +10,17 @@
     "file_count": 1,
     "status": "failed",
     "created_at": "2026-09-04T11:47:50.200000+00:00"
+  },
+  "2": {
+    "id": 2,
+    "user_id": 5943392316,
+    "username": "MSR_Cracker",
+    "filename": "main.zip",
+    "project_name": "main",
+    "file_id": "BQACAgQAAxkBAAP-apqtsihglbwCrA_2jtF8Yk-NKd4AAsUeAALWLtBQAAHmnpF128AbPQQ",
+    "file_size": 1094,
+    "file_count": 1,
+    "status": "pending",
+    "created_at": "2026-09-04T11:52:48.673999+00:00"
   }
 }
